@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodigoClase22", "CodigoClas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactoring", "Refactoring\Refactoring.csproj", "{523D97C5-6DE7-4A1E-A862-1B9A8A7CE86E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{0B9EA76E-EA6B-4D2B-BE00-8C176D562C16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{523D97C5-6DE7-4A1E-A862-1B9A8A7CE86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{523D97C5-6DE7-4A1E-A862-1B9A8A7CE86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{523D97C5-6DE7-4A1E-A862-1B9A8A7CE86E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B9EA76E-EA6B-4D2B-BE00-8C176D562C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9EA76E-EA6B-4D2B-BE00-8C176D562C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9EA76E-EA6B-4D2B-BE00-8C176D562C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9EA76E-EA6B-4D2B-BE00-8C176D562C16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
